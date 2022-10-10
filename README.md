@@ -40,7 +40,7 @@
 
 <br />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABSnader&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku)](https://github.com/ABSnader) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)](https://github.com/ABSnader) 
